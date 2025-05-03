@@ -1,5 +1,5 @@
 ![Logo](https://github.com/samjhain/safeflows.app/blob/main/client/public/logo.svg)
-# Safeflows.app: Revolutionizing Risk Management in DeFi 🛡️  
+# Safeflows.app: Revolutionizing AI Risk Management in DeFi 🛡️  
 
 Safeflows.app is a next-generation, AI-powered platform designed to simplify and elevate risk management in the decentralized finance (DeFi) space. Powered by the **Solana Blockchain** and enhanced by DeepSeek AI, safeflows.app combines cutting-edge technology with an intuitive interface to deliver **real-time insights**, **smart monitoring tools**, and **customizable strategies**.
 
